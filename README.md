@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/salt.gif" width="350" />
+  <img src="https://raw.githubusercontent.com/thuanlb/thuanlb/main/salt.gif" width="350" />
 </p>
 
 ------------
