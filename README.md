@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="#">Thuan</a>.<br> I'm a Web Developer from Hanoi<br><br>#reactjs, #nodejs, #mongodb, #expressjs</samp>
+  <samp>Hello there. I'm <a href="#">Thuan</a>.<br> I'm a Software Developer from Hanoi<br><br></samp>
   <br>
   <br>
   <br>
